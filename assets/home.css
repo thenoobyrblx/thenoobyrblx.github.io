@@ -1,0 +1,17 @@
+body {
+    background: #2e2e2e;
+  }
+  header, footer{
+    background-color: #4d4d4d;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 0 16px 1px white,
+           inset 0 0 8px 2px white;
+    text-shadow: white 0px 0 20px;
+  }
+  body{
+    color: white;
+  }
