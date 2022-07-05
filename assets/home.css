@@ -1,7 +1,7 @@
 body {
     background: #2e2e2e;
   }
-  header, footer{
+  header{
     background-color: #4d4d4d;
     padding: 10px;
     border-radius: 10px;
@@ -14,4 +14,13 @@ body {
   }
   body{
     color: white;
+    font-family: 'Fira Code', monospace;
+  }
+  nav {
+    display: flex;
+  }
+  .navg{
+    background-color: #5d5d5d;
+    padding: 5px;
+    flex: 1;
   }
